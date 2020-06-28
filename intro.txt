@@ -4,3 +4,16 @@ Hello everyone this is me on my first intro but before going further I need to b
 //newbranch
 This is kind of cool and new enough but then again I want to see how the conflict works so weirding things up here.
 But this new line is going into the creepy branch I created previously having no creepy idea what I am dealing with.
+
+Now let's try what i was here for
+
+//C coding
+#include <stdio.h>
+#include <string.h>
+
+int main(void){
+printf("Hello world\n");
+
+return 0;
+}
+
