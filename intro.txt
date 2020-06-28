@@ -2,4 +2,5 @@ Hello everyone this is me on my first intro but before going further I need to b
 
 
 //newbranch
-But this new line is going into the creepy branch I created previously having no creepy idea what I am dealing with
+This is kind of cool and new enough but then again I want to see how the conflict works so weirding things up here.
+But this new line is going into the creepy branch I created previously having no creepy idea what I am dealing with.
